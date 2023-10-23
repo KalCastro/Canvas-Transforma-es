@@ -1,9 +1,6 @@
 const canvas = document.getElementById('Canvas');
 const ctx = canvas.getContext('2d');
 
-let isDragging = false;
-let offsetX, offsetY;
-
 const img = new Image();
 img.src = 'imgs/emoji.png';
 let imgX = canvas.width / 2; // Inicializa a imagem no centro horizontal
