@@ -1,5 +1,10 @@
 # Canvas-Transformacoes
 
+## Colaboradores
+
+- Kauã de Castro(KalCastro)
+- Vincenzo Monaco(VincenMonaco)
+
 Este projeto é um exemplo de uso de conceitos de translação, rotação, escala, transform e clipping path em uma imagem carregada no Canvas HTML. 
 
 ## Demonstração
