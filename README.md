@@ -102,4 +102,5 @@ As seguintes partes do código adicionam os conceitos/funções na imagem carreg
 
 ## Diagrama de Classe
 
-![Diagrama de classes de djw cortado](https://github.com/KalCastro/Canvas-Transforma-es/assets/129300311/8072a40f-d12e-4c0d-8d52-f3429be7291b)
+
+![imagemdjw2](https://github.com/KalCastro/Canvas-Transforma-es/assets/129300311/d10916eb-9b8f-4210-9641-fb39a3d03250)
