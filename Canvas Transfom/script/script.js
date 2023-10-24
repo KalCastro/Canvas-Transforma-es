@@ -46,6 +46,8 @@ function handleKeyPress(event) {
   } else if (event.key === 'q') {
     imgRotation = 0; // Redefine a rotação para 0 graus
     imgScale = 0.3; // Redefine a escala para 100%
+    imgX = canvas.width / 2; // Redefine a horizontal
+    imgY = canvas.height / 2; // Redefine a centro vertical
   } else if (event.key === 'ArrowLeft') {
     imgX -= step; // Move a imagem para a esquerda
   } else if (event.key === 'ArrowRight') {
